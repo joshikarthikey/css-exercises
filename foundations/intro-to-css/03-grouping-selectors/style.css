@@ -1,0 +1,13 @@
+.but1, .but2{
+    font-size:28px;
+    font-family: helvetica,"Times New Roman",sans-serif;
+}
+
+.but1{
+    color: #ffffff;
+    background-color: #000000
+}
+
+.but2{
+    background-color: yellow;
+}
